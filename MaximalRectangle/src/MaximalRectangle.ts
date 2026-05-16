@@ -51,7 +51,7 @@ const maximalRectangleDP = (matrix: number[][]): number => {
 console.log(
   maximalRectangleDP([
     [0, 1, 1, 0],
-    [1, 1, 1, 0],
+    [1, 1, 1, 1],
     [1, 1, 1, 1],
     [1, 1, 0, 0],
   ]),
